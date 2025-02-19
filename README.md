@@ -1,2 +1,1 @@
-# easyclick-docs
-EasyClick文档
+EasyClick 文档存储
